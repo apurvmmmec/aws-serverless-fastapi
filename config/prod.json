@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "Stage",
+    "ParameterValue": "prod"
+  },
+  {
+    "ParameterKey": "LambdaMemorySize",
+    "ParameterValue": "512"
+  },
+  {
+    "ParameterKey": "LambdaTimeout",
+    "ParameterValue": "30"
+  }
+]

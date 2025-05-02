@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "Stage",
+    "ParameterValue": "staging"
+  },
+  {
+    "ParameterKey": "LambdaMemorySize",
+    "ParameterValue": "256"
+  },
+  {
+    "ParameterKey": "LambdaTimeout",
+    "ParameterValue": "15"
+  }
+]

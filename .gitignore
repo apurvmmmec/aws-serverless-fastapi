@@ -1,0 +1,9 @@
+
+temp_build/*
+terraform/.terraform/*
+terraform/.terraform.lock.hcl
+.DS_Store
+venv/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/lambda_function.zip
